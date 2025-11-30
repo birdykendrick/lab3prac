@@ -1,0 +1,3 @@
+[submodule "lab2practice"]
+	path = lab2practice
+	url = https://github.com/birdykendrick/lab2practice.git
